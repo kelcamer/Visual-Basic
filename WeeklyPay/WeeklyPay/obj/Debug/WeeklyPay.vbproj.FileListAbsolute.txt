@@ -1,0 +1,10 @@
+U:\WeeklyPay\WeeklyPay\bin\Debug\WeeklyPay.exe
+U:\WeeklyPay\WeeklyPay\bin\Debug\WeeklyPay.pdb
+U:\WeeklyPay\WeeklyPay\bin\Debug\WeeklyPay.xml
+U:\WeeklyPay\WeeklyPay\obj\Debug\ResolveAssemblyReference.cache
+U:\WeeklyPay\WeeklyPay\obj\Debug\WeeklyPay.Resources.resources
+U:\WeeklyPay\WeeklyPay\obj\Debug\WeeklyPay.WeeklyPay.resources
+U:\WeeklyPay\WeeklyPay\obj\Debug\WeeklyPay.vbproj.GenerateResource.Cache
+U:\WeeklyPay\WeeklyPay\obj\Debug\WeeklyPay.exe
+U:\WeeklyPay\WeeklyPay\obj\Debug\WeeklyPay.xml
+U:\WeeklyPay\WeeklyPay\obj\Debug\WeeklyPay.pdb

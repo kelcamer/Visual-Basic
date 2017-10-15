@@ -1,0 +1,13 @@
+U:\CellPhone\CellPhone\bin\Debug\CellPhone.exe
+U:\CellPhone\CellPhone\bin\Debug\CellPhone.pdb
+U:\CellPhone\CellPhone\bin\Debug\CellPhone.xml
+U:\CellPhone\CellPhone\obj\Debug\ResolveAssemblyReference.cache
+U:\CellPhone\CellPhone\obj\Debug\CellPhone.frmCellPhone.resources
+U:\CellPhone\CellPhone\obj\Debug\CellPhone.Resources.resources
+U:\CellPhone\CellPhone\obj\Debug\CellPhone.vbproj.GenerateResource.Cache
+U:\CellPhone\CellPhone\obj\Debug\CellPhone.exe
+U:\CellPhone\CellPhone\obj\Debug\CellPhone.xml
+U:\CellPhone\CellPhone\obj\Debug\CellPhone.pdb
+E:\CellPhone\CellPhone\obj\Debug\CellPhone.exe
+E:\CellPhone\CellPhone\obj\Debug\CellPhone.xml
+E:\CellPhone\CellPhone\obj\Debug\CellPhone.pdb

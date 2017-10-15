@@ -1,0 +1,10 @@
+C:\Documents and Settings\Kelsey\My Documents\Visual Studio 2008\Projects\Happy\Happy\bin\Debug\Happy.exe
+C:\Documents and Settings\Kelsey\My Documents\Visual Studio 2008\Projects\Happy\Happy\bin\Debug\Happy.pdb
+C:\Documents and Settings\Kelsey\My Documents\Visual Studio 2008\Projects\Happy\Happy\bin\Debug\Happy.xml
+C:\Documents and Settings\Kelsey\My Documents\Visual Studio 2008\Projects\Happy\Happy\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Kelsey\My Documents\Visual Studio 2008\Projects\Happy\Happy\obj\Debug\Happy.frmHappy.resources
+C:\Documents and Settings\Kelsey\My Documents\Visual Studio 2008\Projects\Happy\Happy\obj\Debug\Happy.Resources.resources
+C:\Documents and Settings\Kelsey\My Documents\Visual Studio 2008\Projects\Happy\Happy\obj\Debug\Happy.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Kelsey\My Documents\Visual Studio 2008\Projects\Happy\Happy\obj\Debug\Happy.exe
+C:\Documents and Settings\Kelsey\My Documents\Visual Studio 2008\Projects\Happy\Happy\obj\Debug\Happy.xml
+C:\Documents and Settings\Kelsey\My Documents\Visual Studio 2008\Projects\Happy\Happy\obj\Debug\Happy.pdb

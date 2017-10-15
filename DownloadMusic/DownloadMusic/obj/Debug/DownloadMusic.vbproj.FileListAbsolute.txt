@@ -1,0 +1,10 @@
+U:\DownloadMusic\DownloadMusic\obj\Debug\ResolveAssemblyReference.cache
+U:\DownloadMusic\DownloadMusic\obj\Debug\DownloadMusic.DownloadMusic.resources
+U:\DownloadMusic\DownloadMusic\obj\Debug\DownloadMusic.Resources.resources
+U:\DownloadMusic\DownloadMusic\obj\Debug\DownloadMusic.vbproj.GenerateResource.Cache
+U:\DownloadMusic\DownloadMusic\bin\Debug\DownloadMusic.exe
+U:\DownloadMusic\DownloadMusic\bin\Debug\DownloadMusic.pdb
+U:\DownloadMusic\DownloadMusic\bin\Debug\DownloadMusic.xml
+U:\DownloadMusic\DownloadMusic\obj\Debug\DownloadMusic.exe
+U:\DownloadMusic\DownloadMusic\obj\Debug\DownloadMusic.xml
+U:\DownloadMusic\DownloadMusic\obj\Debug\DownloadMusic.pdb

@@ -1,0 +1,10 @@
+U:\Pizza\Pizza\obj\Debug\ResolveAssemblyReference.cache
+U:\Pizza\Pizza\obj\Debug\Pizza.Resources.resources
+U:\Pizza\Pizza\obj\Debug\Pizza.Pizza.resources
+U:\Pizza\Pizza\obj\Debug\Pizza.vbproj.GenerateResource.Cache
+U:\Pizza\Pizza\bin\Debug\Pizza.exe
+U:\Pizza\Pizza\bin\Debug\Pizza.pdb
+U:\Pizza\Pizza\bin\Debug\Pizza.xml
+U:\Pizza\Pizza\obj\Debug\Pizza.exe
+U:\Pizza\Pizza\obj\Debug\Pizza.xml
+U:\Pizza\Pizza\obj\Debug\Pizza.pdb

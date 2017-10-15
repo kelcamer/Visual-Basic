@@ -1,0 +1,10 @@
+U:\Name\Name\bin\Debug\Name.exe
+U:\Name\Name\bin\Debug\Name.pdb
+U:\Name\Name\bin\Debug\Name.xml
+U:\Name\Name\obj\Debug\ResolveAssemblyReference.cache
+U:\Name\Name\obj\Debug\Name.frmName.resources
+U:\Name\Name\obj\Debug\Name.Resources.resources
+U:\Name\Name\obj\Debug\Name.vbproj.GenerateResource.Cache
+U:\Name\Name\obj\Debug\Name.exe
+U:\Name\Name\obj\Debug\Name.xml
+U:\Name\Name\obj\Debug\Name.pdb

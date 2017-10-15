@@ -1,0 +1,10 @@
+U:\Love\Love\bin\Debug\Love.exe
+U:\Love\Love\bin\Debug\Love.pdb
+U:\Love\Love\bin\Debug\Love.xml
+U:\Love\Love\obj\Debug\ResolveAssemblyReference.cache
+U:\Love\Love\obj\Debug\Love.frmLove.resources
+U:\Love\Love\obj\Debug\Love.Resources.resources
+U:\Love\Love\obj\Debug\Love.vbproj.GenerateResource.Cache
+U:\Love\Love\obj\Debug\Love.exe
+U:\Love\Love\obj\Debug\Love.xml
+U:\Love\Love\obj\Debug\Love.pdb

@@ -1,0 +1,20 @@
+C:\Documents and Settings\Kelsey\My Documents\Visual Studio 2008\Projects\Sequences\Sequences\bin\Debug\Sequences.exe
+C:\Documents and Settings\Kelsey\My Documents\Visual Studio 2008\Projects\Sequences\Sequences\bin\Debug\Sequences.pdb
+C:\Documents and Settings\Kelsey\My Documents\Visual Studio 2008\Projects\Sequences\Sequences\bin\Debug\Sequences.xml
+C:\Documents and Settings\Kelsey\My Documents\Visual Studio 2008\Projects\Sequences\Sequences\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Kelsey\My Documents\Visual Studio 2008\Projects\Sequences\Sequences\obj\Debug\Sequences.frmSequences.resources
+C:\Documents and Settings\Kelsey\My Documents\Visual Studio 2008\Projects\Sequences\Sequences\obj\Debug\Sequences.Resources.resources
+C:\Documents and Settings\Kelsey\My Documents\Visual Studio 2008\Projects\Sequences\Sequences\obj\Debug\Sequences.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Kelsey\My Documents\Visual Studio 2008\Projects\Sequences\Sequences\obj\Debug\Sequences.exe
+C:\Documents and Settings\Kelsey\My Documents\Visual Studio 2008\Projects\Sequences\Sequences\obj\Debug\Sequences.xml
+C:\Documents and Settings\Kelsey\My Documents\Visual Studio 2008\Projects\Sequences\Sequences\obj\Debug\Sequences.pdb
+E:\Sequences\Sequences\obj\Debug\Sequences.exe
+E:\Sequences\Sequences\obj\Debug\Sequences.xml
+E:\Sequences\Sequences\obj\Debug\Sequences.pdb
+E:\Sequences\Sequences\bin\Debug\Sequences.exe
+E:\Sequences\Sequences\bin\Debug\Sequences.pdb
+E:\Sequences\Sequences\bin\Debug\Sequences.xml
+E:\Sequences\Sequences\obj\Debug\ResolveAssemblyReference.cache
+E:\Sequences\Sequences\obj\Debug\Sequences.frmSequences.resources
+E:\Sequences\Sequences\obj\Debug\Sequences.Resources.resources
+E:\Sequences\Sequences\obj\Debug\Sequences.vbproj.GenerateResource.Cache
